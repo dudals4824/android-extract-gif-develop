@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/upload_naver_blog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload Naver Blog" />
+
+    <Button
+        android:id="@+id/upload_google_drive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload Google Drive" />
+
+    <Button
+        android:id="@+id/upload_twitter_post"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload Twitter Post" />
+
+    <Button
+        android:id="@+id/share_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="취소" />
+
+</LinearLayout>

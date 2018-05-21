@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android-Extract-Gif</string>
+
+    <string name="make_gif">Make GIF</string>
+    <string name="play">재생</string>
+    <string name="pause">일시정지</string>
+    <string name="start">시작</string>
+    <string name="end">끝</string>
+    <string name="fps">fps</string>
+    <string name="selectVideo">Select Video</string>
+    <string name="gifList">GIF List</string>
+    <string name="main_notification_channel_name">channel</string>
+    <string name="gif_extraction_notification_title">추출 성공</string>
+    <string name="gif_extraction_notification_body">움짤을 성공적으로 추출하였습니다!</string>
+    <string name="gif_extraction_notification_extracting">프레임 추출</string>
+    <string name="gif_extraction_notification_extracting_info">(%1$d/%2$d) 추출 중 입니다..</string>
+    <string name="gif_extraction_notification_encoding">인코딩</string>
+    <string name="gif_extraction_notification_encoding_info">프레임을 움짤로 만들고 있습니다..</string>
+    <string name="gif_extraction_notification_extracting_ready">프레임 추출을 준비중입니다</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">vbkGe8wX56qcuR15er3fFUmqg</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">U3aKoRcimzOXMFRst3ZCNZnacPtLMITM2kK0rEXlD6QateGPx7</string>
+
+</resources>
